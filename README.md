@@ -1,2 +1,2 @@
-# tech-
+# tech+
 Curso Tech +
